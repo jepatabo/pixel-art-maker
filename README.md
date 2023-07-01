@@ -1,6 +1,6 @@
 # Pixel Art Maker Project
 
-This project is the last on of a series of projects in the Nano Degree - Introduction to Programming.
+This project is the last one of a series of projects in the Nano Degree - Introduction to Programming.
 
 ## Instructions
 
